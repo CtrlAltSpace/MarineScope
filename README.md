@@ -1,0 +1,2 @@
+MarineScope 1.0: Available
+MarineScope 2.0: Upcoming project
